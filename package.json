@@ -1,0 +1,22 @@
+{
+  "name": "cronotrainer",
+  "version": "1.0.0",
+  "description": "A project made using Electron, for study purposes only. This is a kind of smart timer that is shown in full screen. Recommended for gyms to be able to program all heating through the application.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/lmigueloo/cronotrainer",
+  "keywords": [
+    "Stopwatch",
+    "gym",
+    "jiujtsu",
+    "cronotrainer",
+    "timer"
+  ],
+  "author": "Luis Miguel Abrantes and Edenilson Ferreira",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^2.0.0"
+  }
+}
